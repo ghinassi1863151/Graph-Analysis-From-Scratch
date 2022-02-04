@@ -21,4 +21,4 @@ In this notebook we wanted to implement some functionalities to analyze a weight
 ## Resources
 
 All the necessary data can be found at the following link:
-- https://www.dropbox.com/sh/auwn7v141dajsuj/AAAG1Y1CvxCOpEMSnAFBECWCa?dl=0
+- [dropbox](https://www.dropbox.com/sh/auwn7v141dajsuj/AAAG1Y1CvxCOpEMSnAFBECWCa?dl=0)
